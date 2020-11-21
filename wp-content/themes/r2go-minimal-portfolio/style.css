@@ -1,0 +1,17 @@
+/*
+Theme Name: R2Go Minimal Portfolio
+Author: Arthur Santos Costa
+Description: bla bla bla
+Requires PHP: 7.3
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: r2go.com.br
+Tags: portfolio, one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+/*# sourceMappingURL=style.css.map */
