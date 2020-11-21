@@ -14,7 +14,14 @@ Tags: portfolio, one-column, flexible-header, accessibility-ready, custom-colors
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
 
+video {
+	padding: 0px;
+	margin: 0px;
+}
+
 body {
 	font:	100% $font-stack;
   	color: 	$primary-color;
+  	padding: 0px;
+	margin: 0px;
 }

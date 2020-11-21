@@ -12,6 +12,8 @@ Tags: portfolio, one-column, flexible-header, accessibility-ready, custom-colors
 body {
   font: 100% Helvetica, sans-serif;
   color: #333;
+  margin: 0px;
+  padding: 0px !important;
 }
 
 /*# sourceMappingURL=style.css.map */
